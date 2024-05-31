@@ -11,7 +11,7 @@ permalink: /projects/
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-# <center>  Other Projects </center>
+# <center>  Some Older Projects </center>
 - - -
 
 **Intern at Ministry of Health and Population, Government of Nepal**. 2020.<br/>
