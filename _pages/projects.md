@@ -19,7 +19,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div id="nutrition" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
-During the project on costing the National Nutrition Strategy (NNS) in Nepal, I contributed to designing a sustainable costing model for nutrition-specific interventions. This model was developed to support the National Nutrition Action Plan for 2020/2021 to 2024/2025, ensuring adequate funding at the federal, provincial, and local government levels. The project involved defining activities based on the NNS, identifying necessary inputs, determining quantities, and adapting central procurement prices to calculate the total cost. The final report provided a detailed financial framework to keep Nepal on track with achieving the UN Sustainable Development Goals on nutrition.
+During the project on costing the National Nutrition Strategy (NNS) in Nepal, I contributed to designing a sustainable costing model for nutrition-specific interventions. This model was developed to support the National Nutrition Action Plan for 2020/2021 to 2024/2025, ensuring adequate funding at the federal, provincial, and local government levels. The project involved defining activities based on the NNS, identifying necessary inputs, determining quantities, and adapting central procurement prices to calculate the total cost. The final report provided a detailed financial framework to keep the country on track with achieving the UN Sustainable Development Goals on nutrition.
 
 </small><br><br/></div>
 
