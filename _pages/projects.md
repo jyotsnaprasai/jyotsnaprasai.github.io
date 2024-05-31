@@ -42,7 +42,7 @@ During my internship at Birat Multipurpose Co-operative Limited (BMCL), I worked
 </small><br><br/></div>
 
 **Semester Project on Prospects and Challenges of Internet Banking in Jhapa, Nepal**. 2018-2019.<br/>
-<small>[ <a href="#/" onclick="visib('internet')">Further Information</a> | [Full Report](https://www.dropbox.com/scl/fi/s8dxiyb0ifyf32u198rrv/Internet-Banking.docx?rlkey=p9f058yjkaiz89e9qc0shwq8o&dl=0)] </small>
+<small>[ <a href="#/" onclick="visib('internet')">Further Information</a> | [Full Report](https://www.dropbox.com/scl/fi/44on6rt6lzwh8yzr6xlnd/Semester-Project.docx?rlkey=3p3w7og2eklpc4aasydp9oehc&st=eohkyll6&dl=0)] </small>
 
 <div id="internet" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
