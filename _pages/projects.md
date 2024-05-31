@@ -14,7 +14,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> Other Projects </center>
 - - -
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
