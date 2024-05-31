@@ -15,7 +15,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 - - -
 
 **Intern at Ministry of Health and Population, Government of Nepal**. 2020.<br/>
-<small>[ <a href="#/" onclick="visib('nutrition')">Further Information</a> | [Full Report](https://www.dropbox.com/scl/fi/1r2kawg7sainoi5a6zuyr/Report-on-costing-of-NNS-final.pdf?rlkey=3b7j78d8175jsrfbxb0v7nf46&dl=0)] </small>
+<small>[ <a href="#/" onclick="visib('nutrition')">Further Information</a> | [Full Report](https://www.dropbox.com/scl/fi/uz792z97o1xtx1pjq8i9v/Report-on-costing-of-NNS-final.pdf?rlkey=3ec3z2m7xd1qqp7x2mmzl3zfi&st=24uyh7k5&dl=0)] </small>
 
 <div id="nutrition" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
@@ -24,7 +24,7 @@ During the project on costing the National Nutrition Strategy (NNS) in Nepal, I 
 </small><br><br/></div>
 
 **Intern at Ministry of Health and Population, Government of Nepal**. 2018-2019.<br/>
-<small>[ <a href="#/" onclick="visib('health')">Further Information</a> | [Full Report](https://www.dropbox.com/scl/fi/dqdzu6i8dkm5fesx9trwf/Report-on-cost-analysis-of-cancer.pdf?rlkey=o035dkuzwrhq0ybl33dleficd&dl=0)]</small>
+<small>[ <a href="#/" onclick="visib('health')">Further Information</a> | [Full Report](https://www.dropbox.com/scl/fi/swu6t546amey5uqg29c6c/Report-on-cost-analysis-of-cancer.pdf?rlkey=czy97px1xph9ji0m66kyv7m6w&st=2h1at2vb&dl=0)]</small>
 
 <div id="health" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
@@ -33,7 +33,7 @@ During the project on the cost analysis of tobacco-related cancer in Nepal, I co
 </small><br><br/></div>
 
 **Intern at Birat Multipurpose Co-operative Ltd., Jhapa, Nepal**. 2019.<br/>
-<small>[ <a href="#/" onclick="visib('birat')">Further Information</a> | [Full Report](https://www.dropbox.com/scl/fi/44on6rt6lzwh8yzr6xlnd/Semester-Project.docx?rlkey=busgepx9n2y0k6gd6hi22v3bp&dl=0)] </small>
+<small>[ <a href="#/" onclick="visib('birat')">Further Information</a> | [Full Report](https://www.dropbox.com/scl/fi/s8m0lhoj2a3kfvx51ue8i/Birat.docx?rlkey=gb3gnx2mpg22nxksct4tw8ds9&st=xqgtg6el&dl=0)] </small>
 
 <div id="birat" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
@@ -42,11 +42,11 @@ During my internship at Birat Multipurpose Co-operative Limited (BMCL), I worked
 </small><br><br/></div>
 
 **Semester Project on Prospects and Challenges of Internet Banking in Jhapa, Nepal**. 2018-2019.<br/>
-<small>[ <a href="#/" onclick="visib('internet')">Further Information</a> | [Full Report](https://www.dropbox.com/scl/fi/44on6rt6lzwh8yzr6xlnd/Semester-Project.docx?rlkey=3p3w7og2eklpc4aasydp9oehc&st=eohkyll6&dl=0)] </small>
+<small>[ <a href="#/" onclick="visib('internet')">Further Information</a> | [Full Report](https://www.dropbox.com/scl/fi/kv5jgr0puqb8ohq4wcse4/Internet.docx?rlkey=nx0rkyhm46k9o5enxtetrr3fw&st=oqyeenyq&dl=0)] </small>
 
 <div id="internet" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
-During my internship project, as a part of the BBA curriculum, I focused on understanding the current state and future potential of internet banking services in Birtamode, Nepal. I conducted a survey with 60 banking customers in Birtamode-4 to gather data on their awareness, usage, and perceptions of internet banking. The analysis revealed that while a significant majority of respondents were aware of internet banking, many still did not use it due to reasons such as lack of familiarity, security concerns, and inadequate access to the internet. My findings suggest that increasing financial literacy, improving security measures, and enhancing the user-friendliness of internet banking platforms could significantly boost the adoption of internet banking services in the region.
+During my semester project, as a part of the BBA curriculum, I focused on understanding the current state and future potential of internet banking services in Birtamode, Nepal. I conducted a survey with 60 banking customers in Birtamode-4 to gather data on their awareness, usage, and perceptions of internet banking. The analysis revealed that while a significant majority of respondents were aware of internet banking, many still did not use it due to reasons such as lack of familiarity, security concerns, and inadequate access to the internet. My findings suggest that increasing financial literacy, improving security measures, and enhancing the user-friendliness of internet banking platforms could significantly boost the adoption of internet banking services in the region.
 
 </small><br><br/></div>
 
