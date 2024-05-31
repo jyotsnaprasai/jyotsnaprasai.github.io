@@ -19,7 +19,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div id="nutrition" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
-Working on a project 'Costing Model for National Nutrition Strategy' under the guidance of Dr. Devi Prasad Prasai, I helped in the design of a sustainable costing model for Nutrition Specific Interventions for nutrition programmes that will feed for National Nutrition Action Plan 2020/2021 to 2024/2025 at the federal, provincial and local government level. The project was undertaken with a view to keep Nepal on-track of attaining UN Sustainable Development Goals on nutrition.
+During the project on costing the National Nutrition Strategy (NNS) in Nepal, I contributed to designing a sustainable costing model for nutrition-specific interventions. This model was developed to support the National Nutrition Action Plan for 2020/2021 to 2024/2025, ensuring adequate funding at the federal, provincial, and local government levels. The project involved defining activities based on the NNS, identifying necessary inputs, determining quantities, and adapting central procurement prices to calculate the total cost. The final report provided a detailed financial framework to keep Nepal on track with achieving the UN Sustainable Development Goals on nutrition.
 
 </small><br><br/></div>
 
@@ -28,7 +28,7 @@ Working on a project 'Costing Model for National Nutrition Strategy' under the g
 
 <div id="health" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
-I worked on a project 'Cost Analysis of Diagnosis and Treatment of Tobacco Related Cancer' with a goal to determine the direct medical and nonmedical costs, and wage loss (productivity) due to tobacco related cancer. Supervised by Dr. Devi Prasad Prasai, I helped conduct a hospital based descriptive, cross sectional, quantitative study and analyzed the data in SPSS to calculate the descriptive statistics.
+During the project on the cost analysis of tobacco-related cancer in Nepal, I contributed to determining the direct medical costs, nonmedical costs, and productivity losses due to illness. The study aimed to assess the economic burden of tobacco-related cancers on patients and their families. My role involved collecting and analyzing data from 103 patients across three hospitals, focusing on the costs incurred during diagnosis and treatment, including inpatient and outpatient services, travel, food, and accommodation expenses. The findings highlighted the significant financial impact on households, emphasizing the need for increased government subsidies and higher taxes on tobacco products to alleviate the economic strain on affected families.
 
 </small><br><br/></div>
 
