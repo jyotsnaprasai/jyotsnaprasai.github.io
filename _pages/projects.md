@@ -15,7 +15,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 - - -
 
 **Intern at Ministry of Health and Population, Government of Nepal**. 2020.<br/>
-<small>[ <a href="#/" onclick="visib('nutrition')">Further Information</a> | [Full Report](https://www.dropbox.com/s/yourfilelink/report.pdf?dl=0](https://www.dropbox.com/scl/fi/1r2kawg7sainoi5a6zuyr/Report-on-costing-of-NNS-final.pdf?rlkey=3b7j78d8175jsrfbxb0v7nf46&dl=0)] </small>
+<small>[ <a href="#/" onclick="visib('nutrition')">Further Information</a> | [Full Report](https://www.dropbox.com/scl/fi/1r2kawg7sainoi5a6zuyr/Report-on-costing-of-NNS-final.pdf?rlkey=3b7j78d8175jsrfbxb0v7nf46&dl=0)] </small>
 
 <div id="nutrition" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
@@ -24,7 +24,7 @@ Working on a project 'Costing Model for National Nutrition Strategy' under the g
 </small><br><br/></div>
 
 **Intern at Ministry of Health and Population, Government of Nepal**. 2018-2019.<br/>
-<small>[ <a href="#/" onclick="visib('health')">Further Information</a> | [Full Report](https://www.dropbox.com/scl/fi/dqdzu6i8dkm5fesx9trwf/Report-on-cost-analysis-of-cancer.pdf?rlkey=o035dkuzwrhq0ybl33dleficd&dl=0) </small>
+<small>[ <a href="#/" onclick="visib('health')">Further Information</a> | [Full Report](https://www.dropbox.com/scl/fi/dqdzu6i8dkm5fesx9trwf/Report-on-cost-analysis-of-cancer.pdf?rlkey=o035dkuzwrhq0ybl33dleficd&dl=0)]</small>
 
 <div id="health" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
@@ -33,7 +33,7 @@ I worked on a project 'Cost Analysis of Diagnosis and Treatment of Tobacco Relat
 </small><br><br/></div>
 
 **Intern at Birat Multipurpose Co-operative Ltd., Jhapa, Nepal**. 2019.<br/>
-<small>[ <a href="#/" onclick="visib('birat')">Further Information</a> | [Full Report](https://www.dropbox.com/scl/fi/44on6rt6lzwh8yzr6xlnd/Semester-Project.docx?rlkey=busgepx9n2y0k6gd6hi22v3bp&dl=0)(https://www.dropbox.com/scl/fi/dqdzu6i8dkm5fesx9trwf/Report-on-cost-analysis-of-cancer.pdf?rlkey=o035dkuzwrhq0ybl33dleficd&dl=0) </small>
+<small>[ <a href="#/" onclick="visib('birat')">Further Information</a> | [Full Report](https://www.dropbox.com/scl/fi/44on6rt6lzwh8yzr6xlnd/Semester-Project.docx?rlkey=busgepx9n2y0k6gd6hi22v3bp&dl=0)] </small>
 
 <div id="birat" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
