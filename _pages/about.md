@@ -12,7 +12,7 @@ I am an independent researcher in economics, and currently looking for MS or PhD
 
 My research interests are in development and natural resource economics. 
 
-My CV is available [here](https://www.dropbox.com/scl/fi/uf71exm5px08gjbxueebk/CV_JPrasai.pdf?rlkey=o17ixygvnttu3uyutiapq1d9z&st=hfoa8pdm&dl=0).
+My CV is available [here](https://www.dropbox.com/scl/fi/32ndtvqgbdinesu7lscvr/CV_JPrasai.pdf?rlkey=hkr0fsoenbo9sgjfsko7oqmze&dl=0).
   
 - - -
 
